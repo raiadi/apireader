@@ -17,7 +17,5 @@ export class JsonViewerComponent implements OnInit {
   }
 
   ngOnChanges() {
-    console.log("plup plup");
-    console.log(this.allData);
   }
 }
